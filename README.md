@@ -19,3 +19,4 @@ No.  BUS:DEV.FNC	Vendor:Device	Current Speed	Max Speed
 10   c4:00.0              1344:51b7       3               4       
 
 Select a device by number (or press 'q' to quit): 
+
