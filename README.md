@@ -1,4 +1,4 @@
-# nvme_set_speed
+
 
 A utility script to manage PCI Express (PCIe) link speeds for NVMe devices. This script provides both interactive and command-line interfaces to view and modify NVMe device speeds.
 
